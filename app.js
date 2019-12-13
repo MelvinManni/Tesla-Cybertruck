@@ -1,5 +1,5 @@
 var modDropdown = document.getElementById('model-dropdown'),
-    modMenu = document.getElementById('models'),
+    modMenu = document.getElementById('models');
 
 
         modDropdown.addEventListener('click', toggleModels);
