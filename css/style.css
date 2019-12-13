@@ -7,7 +7,7 @@ body{
     background-repeat: no-repeat;
     width: 100%;
     margin: auto 0;
-}
+} hi
 
 #toggle{
     display: none;
@@ -197,6 +197,8 @@ h3{
 }
 
 @media all and (max-width: 721px){
+    .margin{
+        margin-right: 10px;
     a{
         margin-left: 10px;
     }
